@@ -50,7 +50,7 @@ The program includes functionality to visualize:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recursive-tiling-problem.git
+   git clone https://github.com/yourusername/Probleme_carrelage.git
 
 ## Usage
 
