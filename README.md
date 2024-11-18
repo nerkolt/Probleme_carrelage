@@ -51,3 +51,9 @@ The program includes functionality to visualize:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/recursive-tiling-problem.git
+
+## Usage
+
+1. Run the script to input the size of the chessboard and the defective tile's position:
+   ```bash
+   python MainProg.py
